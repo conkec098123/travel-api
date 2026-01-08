@@ -1,0 +1,76 @@
+{
+  "Search": [
+    {
+      "Title": "Stand by Me Doraemon",
+      "Year": "2014",
+      "imdbID": "tt3331846",
+      "Type": "movie",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BZDM2NmNiZWYtMGRlYy00NGM4LTliZGUtMzE1ZWZmMTllMjUwXkEyXkFqcGc@._V1_SX300.jpg"
+    },
+    {
+      "Title": "Doraemon",
+      "Year": "1979–2005",
+      "imdbID": "tt0069576",
+      "Type": "series",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BOTE4ZjlkOWYtZDViYy00ZmZlLTkyMmQtZjNiNTBjMzBiNDA0XkEyXkFqcGc@._V1_SX300.jpg"
+    },
+    {
+      "Title": "Stand by Me Doraemon 2",
+      "Year": "2020",
+      "imdbID": "tt13428402",
+      "Type": "movie",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BNjc2ZGZlZmMtMjZhOC00YWI0LWIxYzQtZWRmODNhZGJhYjY3XkEyXkFqcGc@._V1_SX300.jpg"
+    },
+    {
+      "Title": "Doraemon",
+      "Year": "2005–",
+      "imdbID": "tt4083422",
+      "Type": "series",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BYWE2NDkyNjktNDA4MC00OTQ0LTg5ZDYtMjZlYmFhY2JjNGFkXkEyXkFqcGc@._V1_SX300.jpg"
+    },
+    {
+      "Title": "Doraemon: Nobita and the New Steel Troops: ~Winged Angels~",
+      "Year": "2011",
+      "imdbID": "tt1851909",
+      "Type": "movie",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BZTEzMjI4YmMtNzU1Ny00NWM2LWI1N2QtOTA2NjlkMGVhNjk1XkEyXkFqcGc@._V1_SX300.jpg"
+    },
+    {
+      "Title": "Doraemon the Movie: Nobita's Dinosaur",
+      "Year": "2006",
+      "imdbID": "tt0802983",
+      "Type": "movie",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BNmQyODE2OGQtNWE1MC00OTQ2LWE4NzAtY2M3ZTAzM2E5MzEyXkEyXkFqcGc@._V1_SX300.jpg"
+    },
+    {
+      "Title": "Doraemon the Movie: Nobita's Earth Symphony",
+      "Year": "2024",
+      "imdbID": "tt29402528",
+      "Type": "movie",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BNTc5NDZjN2ItZTgyYi00YzkyLWEyOTktOTExMTNlNmRjZjVmXkEyXkFqcGc@._V1_SX300.jpg"
+    },
+    {
+      "Title": "Doraemon the Movie: Nobita's New Dinosaur",
+      "Year": "2020",
+      "imdbID": "tt10588750",
+      "Type": "movie",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BNGQwZTQ2ODItNGE2Ni00OGE5LThmOWUtMjI1NzQ2MzE4YmU5XkEyXkFqcGc@._V1_SX300.jpg"
+    },
+    {
+      "Title": "Doraemon: Nobita's Secret Gadget Museum",
+      "Year": "2013",
+      "imdbID": "tt2768084",
+      "Type": "movie",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BNDE5ZTAzZjUtYWViMy00MDQ3LThiOTUtYjhhODAwZjI5ZWZiXkEyXkFqcGc@._V1_SX300.jpg"
+    },
+    {
+      "Title": "Doraemon",
+      "Year": "1973",
+      "imdbID": "tt1032831",
+      "Type": "series",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BYjkzODVkZjctMGJhNC00YjhmLTkyMzAtZDY0NzgyNTc5YjA0XkEyXkFqcGc@._V1_SX300.jpg"
+    }
+  ],
+  "totalResults": "67",
+  "Response": "True"
+}
