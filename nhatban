@@ -1,0 +1,76 @@
+{
+  "Search": [
+    {
+      "Title": "Tokyo",
+      "Year": "2014",
+      "imdbID": "tt3331846",
+      "Type": "movie",
+      "Poster": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Tokyo_Tower_at_night_2.JPG/250px-Tokyo_Tower_at_night_2.JPG"
+    },
+    {
+      "Title": "Kyoto",
+      "Year": "1979–2005",
+      "imdbID": "tt0069576",
+      "Type": "series",
+      "Poster": "https://media.vov.vn/sites/default/files/styles/large_watermark/public/2025-04/anh6_5.jpg"
+    },
+    {
+      "Title": "Osaka",
+      "Year": "2020",
+      "imdbID": "tt13428402",
+      "Type": "movie",
+      "Poster": "https://dragonoceandoson.vn/Data/Sites/1/News/398/anh-thumb-anh-02-9778.png"
+    },
+    {
+      "Title": "Hue",
+      "Year": "2005–",
+      "imdbID": "tt4083422",
+      "Type": "series",
+      "Poster": "https://booking.muongthanh.com/images/news/2024/06/original/emag-cover-desk-849_1718719021.jpg"
+    },
+    {
+      "Title": "Da Nang",
+      "Year": "2011",
+      "imdbID": "tt1851909",
+      "Type": "movie",
+      "Poster": "https://cdn11.dienmaycholon.vn/filewebdmclnew/DMCL21/Picture/News/News_expe_12587/12587.png?version=150037"
+    },
+    {
+      "Title": "Can Tho",
+      "Year": "2006",
+      "imdbID": "tt0802983",
+      "Type": "movie",
+      "Poster": "https://cdn1.vietnamtourism.org.vn/images/content/2011-11-17.09.52.37-canthocity-vietnamtourism.jpg"
+    },
+    {
+      "Title": "Tay Ninh",
+      "Year": "2024",
+      "imdbID": "tt29402528",
+      "Type": "movie",
+      "Poster": "https://media.vietnamplus.vn/images/7b93d81ed2bc728ada1075fd999e23cd2233fda2bae31527bc213eab30ef6cd3fbb7970fc2941dc3cda94ccd8843783487e834643ac3192fd4d966cc244fb96b/ttxvn-2804-tay-ninh-nui-ba-den.jpg"
+    },
+    {
+      "Title": "Ninh Binh",
+      "Year": "2020",
+      "imdbID": "tt10588750",
+      "Type": "movie",
+      "Poster": "https://img.baoninhbinh.org.vn/DATA/ARTICLES/2024/4/17/du-lich-ninh-binh-but-pha-thanh-cong-7cd0a.jpg"
+    },
+    {
+      "Title": "Bac Linh",
+      "Year": "2013",
+      "imdbID": "tt2768084",
+      "Type": "movie",
+      "Poster": "https://cdn2.fptshop.com.vn/unsafe/1920x0/filters:format(webp):quality(75)/2024_6_15_638540666602477604_ma-vung-bac-ninh-0.png"
+    },
+    {
+      "Title": "Hoa Thanh",
+      "Year": "1973",
+      "imdbID": "tt1032831",
+      "Type": "series",
+      "Poster": "https://suckhoedoisong.qltns.mediacdn.vn/324455921873985536/2022/12/6/3178443604721789417086272977003295608033692n-16702938212891071386888.jpg"
+    }
+  ],
+  "totalResults": "67",
+  "Response": "True"
+}
